@@ -2,7 +2,7 @@
 
 function rightjustify(s)
     spaces = 70 - length(s)
-    println(" "^65 * s)
+    println(" "^spaces * s)
 end
 
 rightjustify("monty")
