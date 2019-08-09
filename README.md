@@ -1,4 +1,4 @@
-# Think Julia Exercices Solution
+# Think Julia Exercice Solutions
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51nNsxbG9LL._SX379_BO1,204,203,200_.jpg)
 
