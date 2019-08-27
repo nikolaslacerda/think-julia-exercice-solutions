@@ -6,13 +6,13 @@ Official Book: [Link](https://benlauwens.github.io/ThinkJulia.jl/latest/book.htm
  
 All solutions to exercises in book Think Julia. 
 
-- [Chapter 1](./chapter 1)
-- [Chapter 2](./chapter 2)
-- [Chapter 3](./chapter 3)
+- [Chapter 1](./chapter%201)
+- [Chapter 2](./chapter%202)
+- [Chapter 3](./chapter%203)
 - Chapter 4
-- [Chapter 5](./chapter 5)
-- [Chapter 6](./chapter 6)
-- [Chapter 7](./chapter 7)
-- [Chapter 8](./chapter 8)
+- [Chapter 5](./chapter%205)
+- [Chapter 6](./chapter%206)
+- [Chapter 7](./chapter%207)
+- [Chapter 8](./chapter%208)
 
 In progress...
